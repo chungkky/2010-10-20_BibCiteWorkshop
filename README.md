@@ -14,7 +14,7 @@ Note: In July 2017, Zotero 5.0, a major upgrade, was introduced. This was in res
 
 * Zotero Support/Documentation  https://www.zotero.org/support/
 * Zotero Quick Start Guide  https://www.zotero.org/support/quick_start_guide
-* Zotero Training Videos from Pace University   http://libguides.pace.edu/c.php?g=63897&p=410700
+* Zotero Training Videos from Pace University, NY  http://libguides.pace.edu/c.php?g=63897&p=410700
 * Zotero Training Videos from Western Colorado State U  http://libguides.western.edu/video-tutorials/zotero
 * Mastering Zotero https://zotero-manual.github.io/zotero-manual/adding-items
 * There are many training/tutorial videos on YouTube. Search for "Zotero" and explore!
