@@ -8,6 +8,8 @@ Kathy K.Y. Chung, Post-Doctoral Fellow in Digital Humanities
 **General**  
 * UTL Overview of citation management https://guides.library.utoronto.ca/citationmanagement
 
+The UTL regularly offers library workshops on using Zotero (and maybe EndNote/Basics?). The next workshop on Zotero is on 21 November. Check the UTL website under 'Workshops' for their schedule.
+
 **Zotero Resources**  
 
 Note: In July 2017, Zotero 5.0, a major upgrade, was introduced. This was in response to changes in the Firefox extension framework. You can read more about it here: https://www.zotero.org/blog/zotero-5-0/  What this means is that many of the current tutorial videos and library guides have yet to be updated specifically for version 5.0.  However, most of the functionalities are the same and the existing resources are still useful. Just be aware that some of the instructions may be outdated.  
