@@ -22,11 +22,12 @@ Note: In July 2017, Zotero 5.0, a major upgrade, was introduced. This was in res
 
 **EndNote Resources**  
 
-Note: EndNote X7 was the last version produced by Thomson Reuters; EndNote X8 is the first version after the acquisiton by Clarivate Analytics. Many videos and library guides have not been updated for version X8, but they should still relevant and give you an introduction to many of the features of EndNote. 
+Note: EndNote X7 was the last version produced by Thomson Reuters; EndNote X8 is the first version after the acquisiton by Clarivate Analytics. The Clarivate Analytics EndNote webite has many training material and you should start there first. There are also many other videos and library guides (in university library website and on YouTube); many have not been updated for version X8, but they should still relevant and give you an introduction to many of the features of EndNote. 
 
-* Clarivate Analytic's own EndNote X8 Training page http://clarivate.libguides.com/endnote_training/users/enx8 -- start with the Short Videos
-* EndNote X7 Training Videos from Thomson Reuters: http://endnote.com/training   -- start with the 7 min intro for Window or 6 min intro for Mac
-* EndNote Training Videos (YouTube channel)   https://www.youtube.com/user/EndNoteTraining
+* Clarivate Analytic's own EndNote X8 Training page http://clarivate.libguides.com/endnote_training/users/enx8 -- I suggest you start with:
+  * EndNote X8 Short Course (Win | Mac) https://www.youtube.com/watch?v=MSLu1zlX0yc | https://www.youtube.com/watch?v=S2OJLBj0tac
+  * EndNote X8 Cite-While-You-Write (Win | Mac) https://www.youtube.com/watch?v=m-h-nLyDw9g | https://www.youtube.com/watch?v=E7xNPIbNVho
+* EndNote X7 Training Videos from Thomson Reuters: http://endnote.com/training   -- start with the 7 min intro for Window or 6 min intro for Mac* EndNote Training Videos (YouTube channel)   https://www.youtube.com/user/EndNoteTraining
 * EndNote X7 Complete User Manual  http://endnote.com/support/online-user-manual/x7  -- very useful
 * UTL Guide to EndNote Basic  https://guides.library.utoronto.ca/endnoteweb | http://guides.library.utoronto.ca/ROPRLGUTM
 * UTL Guide to CWYW for EndNote X7  https://guides.library.utoronto.ca/c.php?g=251313&p=1673857
