@@ -24,7 +24,7 @@ Note: In July 2017, Zotero 5.0, a major upgrade, was introduced. This was in res
 
 **EndNote Resources**  
 
-Note: EndNote X7 was the last version produced by Thomson Reuters; EndNote X8 is the first version after the acquisiton by Clarivate Analytics. The Clarivate Analytics EndNote webite has many training material and you should start there first. There are also many other videos and library guides (in university library website and on YouTube); many have not been updated for version X8, but they should still relevant and give you an introduction to many of the features of EndNote. 
+Note: EndNote X7 was the last version produced by Thomson Reuters; EndNote X8 is the first version after the acquisiton by Clarivate Analytics. The Clarivate Analytics EndNote website has many training material and you should start there first. There are also many other videos and library guides (in university library websites and on YouTube); many have not been updated for version X8, but they should still be relevant and give you an introduction to many of the features of EndNote. 
 
 * Clarivate Analytic's own EndNote X8 Training page http://clarivate.libguides.com/endnote_training/users/enx8 -- I suggest you start with:
   * EndNote X8 Short Course (Win | Mac) https://www.youtube.com/watch?v=MSLu1zlX0yc | https://www.youtube.com/watch?v=S2OJLBj0tac
